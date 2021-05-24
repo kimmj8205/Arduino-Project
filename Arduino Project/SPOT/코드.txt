@@ -97,7 +97,6 @@ int get_temp() {
   return 4000;
 }
 
-
 int simple_msg() {
   Serial.println("Sample msg");
   myDFPlayer.pause();
